@@ -8696,3 +8696,388 @@ Purging the undo buffer...
 [2023.08.19-16.57.27:763][429]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.19-16.57.27:773][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.19-16.57.27:805][433]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2023.08.19-17.09.17:074][551]LogViewport: Scene viewport resized to 1908x841, mode Windowed.
+[2023.08.19-17.09.17:092][553]LogViewport: Scene viewport resized to 1915x841, mode Windowed.
+[2023.08.19-17.09.17:104][554]LogViewport: Scene viewport resized to 1921x841, mode Windowed.
+[2023.08.19-17.09.17:132][556]LogViewport: Scene viewport resized to 1933x841, mode Windowed.
+[2023.08.19-17.09.17:156][558]LogViewport: Scene viewport resized to 1954x841, mode Windowed.
+[2023.08.19-17.09.17:179][560]LogViewport: Scene viewport resized to 1974x841, mode Windowed.
+[2023.08.19-17.09.17:201][562]LogViewport: Scene viewport resized to 1995x841, mode Windowed.
+[2023.08.19-17.09.17:223][564]LogViewport: Scene viewport resized to 2008x841, mode Windowed.
+[2023.08.19-17.09.17:246][566]LogViewport: Scene viewport resized to 2015x841, mode Windowed.
+[2023.08.19-17.09.17:376][581]LogViewport: Scene viewport resized to 2020x841, mode Windowed.
+[2023.08.19-17.09.17:476][593]LogViewport: Scene viewport resized to 2023x841, mode Windowed.
+[2023.08.19-17.09.17:493][595]LogViewport: Scene viewport resized to 2027x841, mode Windowed.
+[2023.08.19-17.10.23:757][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.10.23:815][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.10.23:819][ 71]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.10.23:820][ 71]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI614FFB634FA8AC9E403AEC953757DD26.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.10.23:824][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 14.2 sec)
+[2023.08.19-17.10.23:831][ 71]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.10.23:831][ 71]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.10.35:755][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.10.35:821][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.10.35:826][447]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.10.35:826][447]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI3C5D34A74FC3E269D762F39DD635DFC3.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.10.35:831][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 14.3 sec)
+[2023.08.19-17.10.35:833][447]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.10.35:833][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.11.30:830][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.08.19-17.11.30:836][834]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/59/ASWVWUS608C4X3MI9K02CR_Auto9
+[2023.08.19-17.11.30:836][834]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/ASWVWUS608C4X3MI9K02CR_Auto9085EC0F940226ACAD0C63E843EE11593.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/59/ASWVWUS608C4X3MI9K02CR_Auto9.uasset'
+[2023.08.19-17.11.30:836][834]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2023.08.19-17.11.30:836][834]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2023.08.19-17.11.30:836][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IA/BP_EnemyAI] ([2] browsable assets)...
+[2023.08.19-17.11.30:849][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI]
+[2023.08.19-17.11.30:849][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA/BP_EnemyAI]
+[2023.08.19-17.11.30:852][834]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA/BP_EnemyAI_Auto9
+[2023.08.19-17.11.30:852][834]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI_Auto9FA0D1224450740D0DBEEF2A067729CED.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/Autosaves/Game/IA/BP_EnemyAI_Auto9.uasset'
+[2023.08.19-17.11.30:853][834]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.08.19-17.12.26:380][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.12.26:454][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.12.26:458][392]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.12.26:458][392]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI761E72734DD909B123E3D7B78E455E49.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.12.26:463][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 14.4 sec)
+[2023.08.19-17.12.26:466][392]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.12.26:466][392]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.12.27:414][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.12.27:461][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.12.27:465][506]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.12.27:466][506]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAIC55F7B6C4AB56392534F02B2A44B30FA.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.12.27:472][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 14.4 sec)
+[2023.08.19-17.12.27:473][506]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.12.27:473][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.13.41:294][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.13.41:375][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.13.41:379][593]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.13.41:380][593]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI881D393847F7FE135D936CA4B5B76D6A.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.13.41:384][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 14.5 sec)
+[2023.08.19-17.13.41:387][593]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.13.41:387][593]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.13.50:512][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.13.50:597][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.13.50:602][622]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.13.50:602][622]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAIA05B3CCA4307C8C30837839FC56331E9.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.13.50:606][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 14.6 sec)
+[2023.08.19-17.13.50:608][622]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.13.50:608][622]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.13.51:912][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.13.51:967][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.13.51:971][773]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.13.51:971][773]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAIAF2E226948A5EE8876F9C1A2C491A2BC.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.13.51:977][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 14.7 sec)
+[2023.08.19-17.13.51:979][773]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.13.51:979][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.13.58:262][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.13.58:323][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.13.58:328][520]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.13.58:328][520]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAIB871B46A4BD239AAE994228D74149ECE.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.13.58:331][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 14.7 sec)
+[2023.08.19-17.13.58:336][520]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.13.58:336][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.13.59:839][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.13.59:887][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.13.59:892][700]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.13.59:892][700]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI9F11A12D42E81C30ED258E89B10C9654.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.13.59:896][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 14.8 sec)
+[2023.08.19-17.13.59:899][700]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.13.59:899][700]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.14.00:814][807]BlueprintLog: New page: Compile BP_EnemyAI
+[2023.08.19-17.14.00:840][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.19-17.15.42:617][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.15.42:707][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.15.42:712][196]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.15.42:712][196]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI0B9573DA4F57FC95DA58A38741CFCDF8.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.15.42:716][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 14.9 sec)
+[2023.08.19-17.15.42:721][196]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.15.42:721][196]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.18.06:114][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.18.06:145][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.18.06:150][495]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.18.06:150][495]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI7539F9B7411E2CF097CDDA82B1542BA8.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.18.06:154][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 14.9 sec)
+[2023.08.19-17.18.06:158][495]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.18.06:158][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.18.08:232][741]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.19-17.18.08:235][741]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.19-17.18.08:235][741]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.19-17.18.08:235][741]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.19-17.18.08:235][741]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 136 us)
+[2023.08.19-17.18.08:236][741]LogWorldPartition: Display: GenerateStreaming took 87 us (total: 2 ms)
+[2023.08.19-17.18.08:236][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.19-17.18.08:236][741]PIE: New page: PIE session: ThirdPersonMap (Aug 19, 2023, 7:18:08 PM)
+[2023.08.19-17.18.08:266][741]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.19-17.18.08:270][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003996s)
+[2023.08.19-17.18.08:270][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004037s)
+[2023.08.19-17.18.08:270][741]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-17.18.08:270][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-17.18.08:270][741]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.19-17.18.08:271][741]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.19-17.18.08:271][741]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.19-17.18.08:271][741]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.19-17.18.08:271][741]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.08.19-17.18.08:271][741]LogWorldPartition: Display: WorldPartition initialize took 586 us (total: 156 ms)
+[2023.08.19-17.18.08:271][741]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2023.08.19-17.18.08:284][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.08.19-17.18.08:286][741]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.19-17.18.08:286][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.19-17.18.08:286][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.19-17.18.08:286][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.19-17.18.08:286][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.19-17.18.08:286][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.19-17.18.08:287][741]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.19-17.18.08:299][741]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Kevin’s AirPods Pro - Find My)
+[2023.08.19-17.18.08:300][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.19-17.18.08:300][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.19-17.18.08:300][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.19-17.18.08:300][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.08.19-17.18.08:300][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.08.19-17.18.08:301][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.08.19-17.18.08:301][741]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.08.19-17.18.08:301][741]LogInit: FAudioDevice initialized with ID 26.
+[2023.08.19-17.18.08:301][741]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2023.08.19-17.18.08:301][741]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.08.19-17.18.08:304][741]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.19-17.18.08:305][741]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.19-18.18.08
+[2023.08.19-17.18.08:305][741]LogWorld: Bringing up level for play took: 0.001490
+[2023.08.19-17.18.08:307][741]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2023.08.19-17.18.08:309][741]PIE: Server logged in
+[2023.08.19-17.18.08:310][741]PIE: Play in editor total start time 0.075 seconds.
+[2023.08.19-17.18.08:323][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:324][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:324][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:324][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:324][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:324][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:325][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:325][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:325][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:325][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:325][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:326][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:328][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:328][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:328][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:328][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:328][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:328][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:329][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:329][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:329][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:329][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:330][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:330][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:330][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:330][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:330][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:331][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:331][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:338][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:338][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:338][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:338][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:339][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:339][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:339][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:339][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:340][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:341][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:343][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:343][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:343][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:343][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:344][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:344][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:344][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:344][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:344][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:345][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:345][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:345][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:345][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.08:346][742]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.10:892][ 44]LogBlueprintUserMessages: [BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177] DIE!
+[2023.08.19-17.18.10:950][ 51]LogBlueprintUserMessages: [BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177] DIE!
+[2023.08.19-17.18.11:442][110]LogBlueprintUserMessages: [BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177] DIE!
+[2023.08.19-17.18.12:851][279]LogBlueprintUserMessages: [BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177] DIE!
+[2023.08.19-17.18.12:951][291]LogBlueprintUserMessages: [BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177] DIE!
+[2023.08.19-17.18.14:371][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-17.18.14:371][458]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.19-17.18.14:371][458]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-17.18.14:372][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-17.18.14:372][458]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.08.19-17.18.14:379][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.19-17.18.14:380][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-17.18.14:393][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.19-17.18.14:393][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.08.19-17.18.14:393][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.08.19-17.18.14:394][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.08.19-17.18.14:396][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-17.18.14:398][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.19-17.18.14:414][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.14:425][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.18.14:453][461]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2023.08.19-17.18.14:721][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.18.14:766][493]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/59/ASWVWUS608C4X3MI9K02CR
+[2023.08.19-17.18.14:766][493]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/ASWVWUS608C4X3MI9K02CRB76CF47C42A500DFB01358BE9D860F2B.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/59/ASWVWUS608C4X3MI9K02CR.uasset'
+[2023.08.19-17.18.14:770][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 15.0 sec)
+[2023.08.19-17.18.14:772][493]AssetCheck: New page: Asset Save: BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177
+[2023.08.19-17.18.14:772][493]LogContentValidation: Display: Validating /Game/IA/BP_EnemyAI.BP_EnemyAI_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177
+[2023.08.19-17.18.31:851][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.18.31:924][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.18.31:929][421]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.18.31:929][421]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI71A2A3BA43AA4071009B8C926B7757E1.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.18.31:933][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 15.1 sec)
+[2023.08.19-17.18.31:936][421]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.18.31:936][421]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.18.33:102][560]BlueprintLog: New page: Compile BP_EnemyAI
+[2023.08.19-17.18.33:127][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.19-17.18.34:236][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.19-17.18.34:239][689]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.19-17.18.34:240][689]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.19-17.18.34:240][689]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.19-17.18.34:240][689]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 140 us)
+[2023.08.19-17.18.34:240][689]LogWorldPartition: Display: GenerateStreaming took 76 us (total: 2 ms)
+[2023.08.19-17.18.34:241][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.19-17.18.34:241][689]PIE: New page: PIE session: ThirdPersonMap (Aug 19, 2023, 7:18:34 PM)
+[2023.08.19-17.18.34:241][689]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.19-17.18.34:243][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002485s)
+[2023.08.19-17.18.34:243][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002512s)
+[2023.08.19-17.18.34:243][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.19-17.18.34:243][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.19-17.18.34:243][689]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.19-17.18.34:243][689]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.19-17.18.34:243][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.19-17.18.34:243][689]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.19-17.18.34:244][689]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.08.19-17.18.34:244][689]LogWorldPartition: Display: WorldPartition initialize took 546 us (total: 156 ms)
+[2023.08.19-17.18.34:244][689]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2023.08.19-17.18.34:256][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.19-17.18.34:258][689]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.19-17.18.34:258][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.19-17.18.34:258][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.19-17.18.34:258][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.19-17.18.34:258][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.19-17.18.34:258][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.19-17.18.34:259][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.19-17.18.34:269][689]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Kevin’s AirPods Pro - Find My)
+[2023.08.19-17.18.34:270][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.19-17.18.34:270][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.19-17.18.34:270][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.19-17.18.34:271][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.08.19-17.18.34:271][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.08.19-17.18.34:271][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.08.19-17.18.34:271][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.08.19-17.18.34:271][689]LogInit: FAudioDevice initialized with ID 27.
+[2023.08.19-17.18.34:271][689]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2023.08.19-17.18.34:271][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.08.19-17.18.34:328][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-17.18.34:328][689]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.19-17.18.34:329][689]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.19-18.18.34
+[2023.08.19-17.18.34:330][689]LogWorld: Bringing up level for play took: 0.001307
+[2023.08.19-17.18.34:331][689]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2023.08.19-17.18.34:335][689]PIE: Server logged in
+[2023.08.19-17.18.34:335][689]PIE: Play in editor total start time 0.096 seconds.
+[2023.08.19-17.18.34:341][689]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.08.19-17.18.38:144][124]LogBlueprintUserMessages: [BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177] DIE!
+[2023.08.19-17.18.40:711][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.19-17.18.40:711][429]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.19-17.18.40:712][429]LogSlate: Window 'StrandedKitten Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.08.19-17.18.40:715][429]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.19-17.18.40:715][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-17.18.40:715][429]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.08.19-17.18.40:723][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.19-17.18.40:724][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.19-17.18.40:736][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.19-17.18.40:736][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.08.19-17.18.40:736][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.08.19-17.18.40:738][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.08.19-17.18.40:741][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.19-17.18.40:787][433]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2023.08.19-17.18.41:454][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.18.41:526][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.18.41:531][513]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.18.41:531][513]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI23DE86064448AC771883C095017DC0E8.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.18.41:534][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 15.1 sec)
+[2023.08.19-17.18.41:539][513]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.18.41:539][513]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.18.57:312][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.18.57:352][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.18.57:356][360]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.18.57:357][360]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI8CEB51AF4AAE3646B4A22FA715BB3F45.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.18.57:360][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 15.2 sec)
+[2023.08.19-17.18.57:365][360]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.18.57:365][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.19.32:830][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.19.32:886][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.19.32:891][671]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.19.32:891][671]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI9BD2D03C4A4C65AB99185481D0B27C20.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.19.32:894][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 15.3 sec)
+[2023.08.19-17.19.32:898][671]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.19.32:898][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.19.35:138][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.19.35:187][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.19.35:192][940]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.19.35:192][940]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAI613AF3104D6115F087996F855D75C22C.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.19.35:196][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 15.3 sec)
+[2023.08.19-17.19.35:200][940]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.19.35:200][940]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.19.38:963][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.19.39:024][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/BP_EnemyAI" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset" SILENT=true
+[2023.08.19-17.19.39:029][392]LogSavePackage: Moving output files for package: /Game/IA/BP_EnemyAI
+[2023.08.19-17.19.39:029][392]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/BP_EnemyAIAE02AD404C28855357690B8FC27E3E1C.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/BP_EnemyAI.uasset'
+[2023.08.19-17.19.39:035][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 15.4 sec)
+[2023.08.19-17.19.39:037][392]AssetCheck: New page: Asset Save: BP_EnemyAI
+[2023.08.19-17.19.39:037][392]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/IA/BP_EnemyAI.BP_EnemyAI
+[2023.08.19-17.19.41:884][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.19-17.19.43:184][730]BlueprintLog: New page: Compile BP_EnemyAI
+[2023.08.19-17.19.43:211][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.19-17.20.34:194][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.19-17.20.34:197][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.19-17.20.34:251][211]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/59/ASWVWUS608C4X3MI9K02CR
+[2023.08.19-17.20.34:251][211]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/ASWVWUS608C4X3MI9K02CR290856E84EDB39E1EECFFEAC5E27DDF8.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/59/ASWVWUS608C4X3MI9K02CR.uasset'
+[2023.08.19-17.20.34:253][211]LogSavePackage: Moving output files for package: /Game/IA/Dog/source/model_PhysicsAsset
+[2023.08.19-17.20.34:253][211]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/model_PhysicsAsset0D2E58BE4B9D3D87BC836985E31B6678.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/Dog/source/model_PhysicsAsset.uasset'
+[2023.08.19-17.20.34:255][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/Dog/source/model" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/Dog/source/model.uasset" SILENT=true
+[2023.08.19-17.20.34:274][211]LogSavePackage: Moving output files for package: /Game/IA/Dog/source/model
+[2023.08.19-17.20.34:274][211]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/model2780FF9346C8BC0EC71B61A465BD1C84.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/Dog/source/model.uasset'
+[2023.08.19-17.20.34:275][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA/Dog/source/model_Skeleton" FILE="../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/Dog/source/model_Skeleton.uasset" SILENT=true
+[2023.08.19-17.20.34:276][211]LogSavePackage: Moving output files for package: /Game/IA/Dog/source/model_Skeleton
+[2023.08.19-17.20.34:276][211]LogSavePackage: Moving '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Saved/model_Skeleton60043D334E393FC9EA8BED9C00358357.tmp' to '../../../../../../Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/IA/Dog/source/model_Skeleton.uasset'
+[2023.08.19-17.20.34:283][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 15.5 sec)
+[2023.08.19-17.20.34:285][211]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.19-17.20.34:285][211]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/IA/Dog/source/model_PhysicsAsset.model_PhysicsAsset
+[2023.08.19-17.20.34:285][211]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/IA/Dog/source/model_Skeleton.model_Skeleton
+[2023.08.19-17.20.34:285][211]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/IA/Dog/source/model.model
+[2023.08.19-17.20.34:285][211]LogContentValidation: Display: Validating /Game/IA/BP_EnemyAI.BP_EnemyAI_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_EnemyAI_C_UAID_C87F54A0311B00A101_1751405177
