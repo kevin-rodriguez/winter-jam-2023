@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/Maps/Level_1.umap",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/Maps/Sub_NavmeshObstacles.umap",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/Models/Modelos_Juego_Cube_001.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/Models/Modelos_Juego_Cube_002.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/Models/Modelos_Juego_Cube_004.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/Character/Blueprints/BP_Character.uasset",
 				"D:/GameJams/WinterJam2023/MyProject/winter-jam-2023/Content/Maps/Level_1.umap",
 				"D:/GameJams/WinterJam2023/MyProject/winter-jam-2023/Content/BP_GameMode.uasset",
 				"D:/GameJams/WinterJam2023/MyProject/winter-jam-2023/Content/Models/Modelos_Juego_Cube_001.uasset",
