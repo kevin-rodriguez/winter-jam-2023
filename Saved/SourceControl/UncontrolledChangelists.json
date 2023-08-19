@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
+				"C:/Users/kevin/Documents/Unreal Projects/StrandedKitten/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+			]
+		}
+	]
+}
